@@ -1,0 +1,24 @@
+[
+  {
+    "id": "JKT001",
+    "operator_id": "EMP001",
+    "nama_operator": "Budi Santoso",
+    "tipe": "Pulang dari Site",
+    "tanggal": "2025-07-28",
+    "penerbangan": "GA-302",
+    "rute": "Balikpapan → Jakarta",
+    "status": "Terkonfirmasi",
+    "catatan": "Tiket sudah dipesan"
+  },
+  {
+    "id": "JKT002",
+    "operator_id": "EMP002",
+    "nama_operator": "Agus Permana",
+    "tipe": "Berangkat ke Site",
+    "tanggal": "2025-07-28",
+    "penerbangan": "GA-501",
+    "rute": "Jakarta → Balikpapan",
+    "status": "Menunggu Konfirmasi",
+    "catatan": "Menunggu approval koordinator"
+  }
+]

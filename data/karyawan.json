@@ -1,0 +1,104 @@
+[
+  {
+    "id": "EMP001",
+    "nama": "Budi Santoso",
+    "jabatan": "Operator Alat Berat",
+    "site": "Site Kalimantan Timur",
+    "status": "Aktif di Site",
+    "roster_masuk": "2025-07-01",
+    "roster_selesai": "2025-07-28",
+    "sisa_hari_roster": 7,
+    "sertifikasi": {
+      "SIO_Excavator": { "status": "Valid", "expired": "2026-03-15" },
+      "K3_Umum": { "status": "Valid", "expired": "2026-01-10" }
+    },
+    "MCU": { "status": "Valid", "expired": "2025-12-01" },
+    "kontak": "08123456001",
+    "catatan": ""
+  },
+  {
+    "id": "EMP002",
+    "nama": "Agus Permana",
+    "jabatan": "Operator Alat Berat",
+    "site": "Standby Base Camp",
+    "status": "Standby",
+    "roster_masuk": null,
+    "roster_selesai": null,
+    "sisa_hari_roster": null,
+    "sertifikasi": {
+      "SIO_Excavator": { "status": "Valid", "expired": "2026-05-20" },
+      "K3_Umum": { "status": "Valid", "expired": "2025-11-30" }
+    },
+    "MCU": { "status": "Valid", "expired": "2026-02-15" },
+    "kontak": "08123456002",
+    "catatan": "Siap deploy kapanpun"
+  },
+  {
+    "id": "EMP003",
+    "nama": "Rizky Hidayat",
+    "jabatan": "Operator Alat Berat",
+    "site": "Standby Base Camp",
+    "status": "Cuti",
+    "roster_masuk": null,
+    "roster_selesai": null,
+    "sisa_hari_roster": null,
+    "sertifikasi": {
+      "SIO_Excavator": { "status": "Valid", "expired": "2025-09-10" },
+      "K3_Umum": { "status": "Expired", "expired": "2025-06-01" }
+    },
+    "MCU": { "status": "Valid", "expired": "2025-10-20" },
+    "kontak": "08123456003",
+    "catatan": "Cuti sampai 25 Juli 2025. K3 Umum perlu diperbarui sebelum deploy."
+  },
+  {
+    "id": "EMP004",
+    "nama": "Deni Kurniawan",
+    "jabatan": "Operator Alat Berat",
+    "site": "Site Kalimantan Timur",
+    "status": "Aktif di Site",
+    "roster_masuk": "2025-07-05",
+    "roster_selesai": "2025-08-01",
+    "sisa_hari_roster": 11,
+    "sertifikasi": {
+      "SIO_Excavator": { "status": "Valid", "expired": "2026-07-01" },
+      "K3_Umum": { "status": "Valid", "expired": "2026-04-15" }
+    },
+    "MCU": { "status": "Expired", "expired": "2025-06-30" },
+    "kontak": "08123456004",
+    "catatan": "MCU expired! Harus diperbarui sebelum roster berikutnya."
+  },
+  {
+    "id": "EMP005",
+    "nama": "Hendra Wijaya",
+    "jabatan": "Operator Alat Berat",
+    "site": "Standby Base Camp",
+    "status": "Standby",
+    "roster_masuk": null,
+    "roster_selesai": null,
+    "sisa_hari_roster": null,
+    "sertifikasi": {
+      "SIO_Excavator": { "status": "Valid", "expired": "2027-01-10" },
+      "K3_Umum": { "status": "Valid", "expired": "2026-08-20" }
+    },
+    "MCU": { "status": "Valid", "expired": "2026-05-10" },
+    "kontak": "08123456005",
+    "catatan": "Semua dokumen lengkap dan valid."
+  },
+  {
+    "id": "EMP006",
+    "nama": "Slamet Raharjo",
+    "jabatan": "Operator Alat Berat",
+    "site": "Site Kalimantan Timur",
+    "status": "Sakit",
+    "roster_masuk": "2025-07-01",
+    "roster_selesai": "2025-07-28",
+    "sisa_hari_roster": 7,
+    "sertifikasi": {
+      "SIO_Excavator": { "status": "Valid", "expired": "2025-12-15" },
+      "K3_Umum": { "status": "Valid", "expired": "2025-11-01" }
+    },
+    "MCU": { "status": "Valid", "expired": "2025-09-30" },
+    "kontak": "08123456006",
+    "catatan": "Sakit, kemungkinan perlu pengganti segera."
+  }
+]
